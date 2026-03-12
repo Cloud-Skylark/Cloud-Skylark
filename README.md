@@ -1,12 +1,35 @@
 # 💫 About Me:
-Hi 👋, I'm Cloudy<br><br>👨‍💻 Android Developer (Fresher) | 🔐 Cyber Security Learner  <br>📱 Currently learning Android Development (Java/Kotlin, Jetpack Compose)  <br>🛡️ Exploring Cyber Security basics alongside mobile development  <br><br><br>- Small Android apps to strengthen core concepts<br>- UI building with Jetpack Compose<br>- Improving problem-solving & clean code practices<br><br><br>- Beginner-friendly Android projects<br>- Open-source Android apps<br>- Learning-based projects (notes app, todo app, API-based apps)<br><br><br>- Android app architecture (MVVM, Room, Navigation)<br>- Writing clean & scalable Android code<br>- Cyber Security fundamentals & tools<br>🌱 I'm currently learning<br>- Android Development (Java / Kotlin)<br>- Jetpack Compose<br>- Cyber Security basics<br><br><br>- Android basics<br>- Jetpack Compose UI<br>- Learning Android as a fresher<br><br><br>I love learning tech step-by-step and building things from scratch 🚀<br>
+Hi 👋, I'm Cloudy  
 
+👨‍💻 Android Developer (Java/Kotlin) | Spring Boot & Backend Enthusiast | 🔐 Cyber Security Learner  
+📱 Skilled in building Android apps with Jetpack Compose, MVVM, Room, and Retrofit  
+🛡️ Exploring Cyber Security basics alongside mobile development  
+
+🚀 Actively seeking opportunities as an **Android / Java Developer** to apply my skills in mobile app development and backend systems.  
+
+- Developed beginner-friendly Android projects (Notes app, Todo app, API-based apps)  
+- Experience with REST APIs, Firebase, SQLite, PostgreSQL  
+- Learning Docker & Spring Boot for scalable backend solutions  
+- Passionate about writing clean, maintainable, and production-ready code  
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Cloudy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/Cloudy](https://www.instagram.com/dev.cloudy19?igsh=MWNiZG9jZGJ1bXQyMA==)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@Dev.Cloudy@19](https://www.instagram.com/dev.cloudy19?igsh=MWNiZG9jZGJ1bXQyMA==)) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Cloud-Skylark) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cloud-Skylark) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:badalahire19@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev.cloudy19?igsh=MWNiZG9jZGJ1bXQyMA==)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badal-ahire-45977b294)  
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Cloudy)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dev.Cloudy19)  
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Cloud-Skylark)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cloud-Skylark)  
 
 # 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cloud-Skylark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Cloud-Skylark&theme=dark&hide_border=false)<br/>
@@ -22,4 +45,3 @@ Hi 👋, I'm Cloudy<br><br>👨‍💻 Android Developer (Fresher) | 🔐 Cyber 
 [![](https://visitcount.itsvg.in/api?id=Cloud-Skylark&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
