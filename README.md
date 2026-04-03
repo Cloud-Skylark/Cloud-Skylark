@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi 👋, I'm Cloudy  
 
-👨‍💻 Android Developer (Java/Kotlin) | Spring Boot & Backend Enthusiast | 🔐 Cyber Security Learner  
+👨‍💻 Android Developer (Java/Kotlin) | Spring Boot & Backend Enthusiast | DevOps Student | 🔐 Cyber Security Learner  
 📱 Skilled in building Android apps with Jetpack Compose, MVVM, Room, and Retrofit  
 🛡️ Exploring Cyber Security basics alongside mobile development  
 
-🚀 Actively seeking opportunities as an **Android / Java Developer** to apply my skills in mobile app development and backend systems.  
+🚀 Actively seeking opportunities as an **Android / Java Developer/devOps** to apply my skills in mobile app development and backend systems.  
 
 - Developed beginner-friendly Android projects (Notes app, Todo app, API-based apps)  
 - Experience with REST APIs, Firebase, SQLite, PostgreSQL  
