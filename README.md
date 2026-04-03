@@ -1,16 +1,17 @@
-# 💫 About Me:
-Hi 👋, I'm Cloudy  
+#💫 About Me:
 
-👨‍💻 Android Developer (Java/Kotlin) | Spring Boot & Backend Enthusiast | DevOps Student | 🔐 Cyber Security Learner  
-📱 Skilled in building Android apps with Jetpack Compose, MVVM, Room, and Retrofit  
-🛡️ Exploring Cyber Security basics alongside mobile development  
+Hi 👋, I'm Cloudy
 
-🚀 Actively seeking opportunities as an **Android / Java Developer/devOps** to apply my skills in mobile app development and backend systems.  
+👨‍💻 Android Developer (Java/Kotlin) | Spring Boot & Backend Enthusiast | DevOps Learner | 🔐 Cyber Security Explorer
+📱 Building Android apps using Jetpack Compose, MVVM, Room & Retrofit
+⚙️ Learning scalable backend + DevOps tools for production deployments
 
-- Developed beginner-friendly Android projects (Notes app, Todo app, API-based apps)  
-- Experience with REST APIs, Firebase, SQLite, PostgreSQL  
-- Learning Docker & Spring Boot for scalable backend solutions  
-- Passionate about writing clean, maintainable, and production-ready code  
+🚀 Actively seeking opportunities as an Android / Java / DevOps Developer
+
+Developed Android projects (Notes App, Todo App, API Apps)
+Experience with REST APIs, Firebase & PostgreSQL
+Learning Docker, Kubernetes & CI/CD pipelines
+Passionate about clean architecture & production-ready ap
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dev.cloudy19?igsh=MWNiZG9jZGJ1bXQyMA==) 
