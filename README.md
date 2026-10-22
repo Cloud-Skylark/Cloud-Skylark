@@ -1,40 +1,62 @@
 <div align="center">
 
-![Badal Ahire — DevOps Engineer](assets/hero.svg)
+![Badal Ahire | Junior DevOps Engineer](assets/hero.svg)
 
-**Junior / Associate DevOps Engineer · Pune, India**
+<table><tr><td width="210" align="center"><img src="assets/badal-portrait.jpg" width="190" alt="Portrait of Badal Ahire" /></td><td align="left"><h2>Hi, I'm Badal 👋</h2><p><b>Junior / Associate DevOps Engineer · Pune, India</b></p><p>I build repeatable deployment workflows with Jenkins, Docker and Kubernetes, and automate infrastructure tasks with Python and AWS. My Spring Boot background helps me understand the applications behind the pipelines.</p><p>Open to entry-level DevOps and cloud engineering opportunities.</p></td></tr></table>
 
-[GitHub](https://github.com/Cloud-Skylark) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/badalahire) &nbsp;·&nbsp; [Email](mailto:badalahire19@gmail.com)
+[**GitHub**](https://github.com/Cloud-Skylark) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/badalahire/) &nbsp;·&nbsp; [**Email**](mailto:badalahire19@gmail.com)
 
 </div>
 
-### The person behind the pipeline
+## ⚡ Tech Stack & Tools
 
-I'm **Badal Ahire (Cloudy)**, an entry-level DevOps engineer who enjoys turning application code into repeatable deployments. I work hands-on with **Jenkins, Docker, Kubernetes, Linux, AWS and Python automation**. My Spring Boot and Android background helps me understand the software I'm deploying—not just the infrastructure around it.
+![DevOps toolkit](assets/skills.svg)
 
-Currently exploring **Prometheus and Grafana**. Open to junior and associate DevOps opportunities.
+| Area | Technologies |
+| :-- | :-- |
+| **CI/CD & Source Control** | Jenkins · Git · GitHub |
+| **Containers & Orchestration** | Docker · Kubernetes · Helm (learning) |
+| **Cloud** | AWS EC2 · S3 · RDS · VPC · IAM · CloudWatch |
+| **Scripting & Operating Systems** | Python · Linux (Ubuntu) |
+| **Monitoring (learning)** | Prometheus · Grafana |
+| **Backend & Data** | Spring Boot · PostgreSQL |
 
-![Selected projects](assets/projects.svg)
+## 🚀 Selected Projects
 
-| Project | What I built | Source |
-| :--- | :--- | :--- |
-| **3-Tier Task Manager** | Spring Boot API, web frontend and PostgreSQL; Docker containers, Kubernetes Deployments/Services, persistent storage and a Jenkins **build → push → deploy** pipeline. No automated test stage claimed. | [Explore repository](https://github.com/Cloud-Skylark/Task-Manager-frontend) |
-| **CloudVault** | Python backup utility with timestamped ZIP archives and optional S3 upload via boto3. | [Explore repository](https://github.com/Cloud-Skylark/Python-Automation-with-AWS-S3) |
+![Selected DevOps projects](assets/projects.svg)
 
-![DevOps technology stack](assets/skills.svg)
+### 01 / 3-Tier Task Manager — CI/CD & Kubernetes
 
-### Activity / contribution record
+**Frontend + Spring Boot API + PostgreSQL.** Containerized the application and used Kubernetes Deployments and Services for deployment. Built a Jenkins workflow to **build, push and deploy** container images. Configured persistent storage for PostgreSQL and troubleshot deployment and networking issues.
 
-My actual public GitHub contribution calendar is visible on [my GitHub profile](https://github.com/Cloud-Skylark). This README intentionally avoids fabricated streaks, rankings, and contribution totals.
+**[View project repository →](https://github.com/Cloud-Skylark/Task-Manager-frontend)**
 
-### Background
+### 02 / CloudVault — Python & AWS S3 Backup Automation
 
-**Bachelor of Computer Applications (BCA)** · S.V.K.T. College, Deolali Camp, Nashik · Savitribai Phule Pune University · 2025.
+Built a Python backup utility that creates timestamped ZIP archives and supports optional AWS S3 uploads using boto3, with progress feedback.
+
+**[View project repository →](https://github.com/Cloud-Skylark/Python-Automation-with-AWS-S3)**
+
+## 🔁 How I Ship
+
+```text
+GitHub source  →  Jenkins pipeline  →  Docker build & push  →  Kubernetes deployment
+```
+
+*The Task Manager pipeline does not claim an automated test stage.*
+
+## 📈 GitHub Activity
+
+[**View my real contribution calendar on GitHub →**](https://github.com/Cloud-Skylark)
+
+No fabricated streaks, rankings or contribution counts. My public GitHub profile shows the actual activity.
+
+## 🎓 Background
+
+**Bachelor of Computer Applications (BCA)** · S.V.K.T. College, Deolali Camp, Nashik · Savitribai Phule Pune University · 2025
 
 <div align="center">
 
-![Keep building, keep shipping](assets/footer.svg)
-
-*Build with intention. Deploy with confidence.*
+![DevOps profile footer](assets/footer.svg)
 
 </div>
