@@ -1,57 +1,40 @@
 <div align="center">
 
-![Badal Ahire — DevOps Engineer](assets/cloudy-hero.svg)
+![Badal Ahire — DevOps Engineer](assets/hero.svg)
 
-**Building reliable deployments, one pipeline at a time.**
+**Junior / Associate DevOps Engineer · Pune, India**
 
-[GitHub](https://github.com/Cloud-Skylark) · [LinkedIn](https://www.linkedin.com/in/badal-ahire-45977b294) · [Email](mailto:badalahire19@gmail.com)
+[GitHub](https://github.com/Cloud-Skylark) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/badalahire) &nbsp;·&nbsp; [Email](mailto:badalahire19@gmail.com)
 
 </div>
 
-## About me
+### The person behind the pipeline
 
-I'm **Badal Ahire (Cloudy)**, an aspiring **DevOps Engineer** based in Pune, India. I build hands-on projects around CI/CD, containerization, Kubernetes deployments, AWS, and Python automation. My background in Spring Boot and Android development helps me understand the applications behind the infrastructure.
+I'm **Badal Ahire (Cloudy)**, an entry-level DevOps engineer who enjoys turning application code into repeatable deployments. I work hands-on with **Jenkins, Docker, Kubernetes, Linux, AWS and Python automation**. My Spring Boot and Android background helps me understand the software I'm deploying—not just the infrastructure around it.
 
-- 🔧 Working with **Jenkins, Docker, Kubernetes, Linux, Git and AWS**
-- 🐍 Building automation with **Python and boto3**
-- 📈 Exploring **Prometheus and Grafana** for monitoring
-- 🎯 Open to **Junior / Associate DevOps Engineer** opportunities
+Currently exploring **Prometheus and Grafana**. Open to junior and associate DevOps opportunities.
 
-## Selected projects
+![Selected projects](assets/projects.svg)
 
-### [3-Tier Task Manager — Kubernetes & Jenkins](https://github.com/Cloud-Skylark/Task-Manager-frontend)
+| Project | What I built | Source |
+| :--- | :--- | :--- |
+| **3-Tier Task Manager** | Spring Boot API, web frontend and PostgreSQL; Docker containers, Kubernetes Deployments/Services, persistent storage and a Jenkins **build → push → deploy** pipeline. No automated test stage claimed. | [Explore repository](https://github.com/Cloud-Skylark/Task-Manager-frontend) |
+| **CloudVault** | Python backup utility with timestamped ZIP archives and optional S3 upload via boto3. | [Explore repository](https://github.com/Cloud-Skylark/Python-Automation-with-AWS-S3) |
 
-A full-stack application with an HTML/CSS/JavaScript frontend, Spring Boot API, and PostgreSQL database. Containerized the application with Docker, deployed workloads using Kubernetes Deployments and Services, and configured Jenkins to automate image build, push, and deployment. Used PV/PVC storage for PostgreSQL and investigated deployment and networking issues during setup.
+![DevOps technology stack](assets/skills.svg)
 
-**Stack:** Jenkins · Docker · Kubernetes · Spring Boot · PostgreSQL · GitHub
+### Activity / contribution record
 
-### [CloudVault — Python AWS S3 Backup Automation](https://github.com/Cloud-Skylark/Python-Automation-with-AWS-S3)
+My actual public GitHub contribution calendar is visible on [my GitHub profile](https://github.com/Cloud-Skylark). This README intentionally avoids fabricated streaks, rankings, and contribution totals.
 
-Python-based backup utility for creating timestamped ZIP archives and optionally uploading them to Amazon S3 with boto3. Includes progress feedback and bucket selection/creation workflows.
+### Background
 
-**Stack:** Python · boto3 · Amazon S3 · ZIP automation
-
-## Toolkit
-
-| Area | Technologies |
-| :-- | :-- |
-| **CI/CD & Source Control** | Jenkins, Git, GitHub |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm (learning) |
-| **Cloud** | AWS (EC2, S3, IAM, VPC, RDS, CloudWatch) |
-| **Scripting & OS** | Python, boto3, Linux (Ubuntu) |
-| **Monitoring** | Prometheus, Grafana (learning) |
-| **Application & Data** | Spring Boot, PostgreSQL, HTML/CSS/JavaScript, Android |
-
-## GitHub activity
-
-My real public contribution activity is available on [my GitHub profile](https://github.com/Cloud-Skylark#user-activity-overview). No generated or estimated contribution counts are shown here.
-
-## Education
-
-**Bachelor of Computer Applications (BCA)** — S.V.K.T. College, Deolali Camp, Nashik · Savitribai Phule Pune University · 2025
+**Bachelor of Computer Applications (BCA)** · S.V.K.T. College, Deolali Camp, Nashik · Savitribai Phule Pune University · 2025.
 
 <div align="center">
 
-![Cloudy — build, ship, improve](assets/cloudy-footer.svg)
+![Keep building, keep shipping](assets/footer.svg)
+
+*Build with intention. Deploy with confidence.*
 
 </div>
